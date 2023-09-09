@@ -2,6 +2,8 @@
 
 HW 1 Fall 2023 Software Engineering 
 
-This is an empty repository for you to attempt a pull request as part of HW 1.
+This is my commit for the homework. (Aditya Sambhaji Jadhav)
 
+Link to an funny video:
+https://www.youtube.com/watch?v=oTg83A-IavI&pp=ygUPZnVubnkgVVMgdmlkZW9z
 
