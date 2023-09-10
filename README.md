@@ -2,6 +2,5 @@
 
 HW 1 Fall 2023 Software Engineering 
 
-This is an empty repository for you to attempt a pull request as part of HW 1.
-
+Link to the video : https://www.youtube.com/watch?v=yUs7nLmS38Y
 
