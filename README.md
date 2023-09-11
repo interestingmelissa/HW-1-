@@ -2,6 +2,9 @@
 
 HW 1 Fall 2023 Software Engineering 
 
-This is an empty repository for you to attempt a pull request as part of HW 1.
+Name: Chi Chen
+https://www.youtube.com/watch?v=RyLELlx9Y8E
+
+A link to hapi cat song!
 
 
