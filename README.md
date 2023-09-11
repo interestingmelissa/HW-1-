@@ -2,6 +2,6 @@
 
 HW 1 Fall 2023 Software Engineering 
 
-This is an empty repository for you to attempt a pull request as part of HW 1.
+Summer 2024 internships: https://github.com/SimplifyJobs/Summer2024-Internships
 
 
