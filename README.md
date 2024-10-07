@@ -2,6 +2,6 @@
 
 HW 1 Fall 2024 Software Engineering / IPD 
 
-This is an empty repository for you to attempt a pull request as part of HW 1.
+Find funny videos here - https://www.youtube.com/watch?v=ePV_kE5xGqs&pp=ygUMZnVubnkgdmlkZW9z
 
 
